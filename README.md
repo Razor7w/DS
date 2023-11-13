@@ -1,6 +1,6 @@
 # DS 👨‍⚕️
 
-Repositorio Frontend del proyecto portal paciente Red Salud.
+Repositorio Frontend.
 
 Tecnologias usadas :
 
