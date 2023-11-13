@@ -1,6 +1,6 @@
 # DS 👨‍⚕️
 
-Repositorio Frontend
+Repositorio Frontend.
 
 Tecnologias usadas :
 
