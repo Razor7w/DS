@@ -4,60 +4,60 @@
 
 /*PRODUCT 1*/
 
-/* .--component-surface {
+.--component-surface-1 {
   background: #f5f1b4;
 }
 
-.--component-surface-checked {
+.--component-surface-checked-1 {
   background: #f5f1b4;
 }
 
-.--component-surface-error {
+.--component-surface-error-1 {
   background-color: #91c2bc;
 }
 
-.--component-border {
+.--component-border-1 {
   border: 2px solid #e5ebdf;
 }
 
-.--component-border-checked {
+.--component-border-checked-1 {
   border: 2px solid #00cdc7;
 }
 
-.--component-border-error {
+.--component-border-error-1 {
   border: 2px solid #ff5f52;
 }
 
-.--corner-s-1 {
+.--corner-s-1-1 {
   border-radius: 4px;
-} */
+}
 
 /*PRODUCT  2*/
 
-.--component-surface {
+.--component-surface-2 {
   background: #f5f1dc;
 }
 
-.--component-surface-checked {
+.--component-surface-checked-2 {
   background: #f5f1dc;
 }
 
-.--component-surface-error {
+.--component-surface-error-2 {
   background-color: #88ae39;
 }
 
-.--component-border {
+.--component-border-2 {
   border: 3px solid #49907c;
 }
 
-.--component-border-checked {
+.--component-border-checked-2 {
   border: 3px solid #f07357;
 }
 
-.--component-border-error {
+.--component-border-error-2 {
   border: 3px solid #cb414d;
 }
 
-.--corner-s-1 {
+.--corner-s-1-2 {
   border-radius: 24px;
 }
